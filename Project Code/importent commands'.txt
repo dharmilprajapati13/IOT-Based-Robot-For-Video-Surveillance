@@ -1,0 +1,25 @@
+// importent commands ...
+
+default username:- pi 
+default password:- raspberry
+
+sudo means superuser do.
+almost commands are like linux (for directories)
+
+ifconfig			# see ip 
+sudo apt update 	 #to update system
+apt list --upgradable 	 #to see the updates
+sudo apt upgrade  	 #to upgrade system
+sudo apt install name 	 #you can install any thing
+clear 			 #to clear the terminal 
+exit			 #to exit the terminal	
+sudo raspi-config	 # configration of pi
+time / date 		 	# for time and date 
+any_command --help    	 # to get help of any_command 
+nano			 		#any new buffer 
+sudo shutdown -now or sudo shutdown -time  #for shutdown in 1 min
+sudo shutdown -c     # for cancle shutdown
+cat /etc/os-release  # to show the verson of the current os
+pyhon --version    	# to show the version of python
+df -h  				# to see the storage utilazation
+
